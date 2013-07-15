@@ -23,4 +23,4 @@ The CSV is parsed by the `csv_to_json.py` Python script which creates a JSON fil
 Numeric values will be stored as such.
 
 ##License
-Public Domain.
+MIT. See LICENSE.txt for details.
