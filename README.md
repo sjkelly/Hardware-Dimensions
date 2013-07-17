@@ -7,20 +7,20 @@ Dimensions are stored in Open Document Spreadsheets (ods). CSV and JSON files ge
 The CSV is parsed by the `csv_to_json.py` Python script which creates a JSON file with the following format...
 ```JSON
 {
-<file name> : [
+"filename" : [
     { 
-    "<Row 1, Column 1>" : <Row 2, Column 1>,
-    "<Row 1, Column 2>" : <Row 2, Column 2>,
+    "Row1, Col1" : "Row2, Col1",
+    "Row1, Col2" : "Row2, Col2",
     },
      { 
-    "<Row 1, Column 1>" : <Row 3, Column 1>,
-    "<Row 1, Column 2>" : <Row 3, Column 2>,
+    "Row1, Col1" : "Row3, Col1",
+    "Row1, Col2" : "Row3, Col2",
     }
     ]
 }   
 ```
-
-Numeric values will be stored as such.
+The keys are pulled from the first row and applied to each row below as a group.
+Numeric values will be stored as such, removing the quotation marks around the value.
 
 ##License
 MIT. See LICENSE.txt for details.
