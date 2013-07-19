@@ -2,69 +2,80 @@
 "lockNut": [
 {
 "height": 4.0, 
+"diameter": 3.0, 
+"size": "M3", 
 "width": 5.5, 
-"wrenchingHeight": 2.4, 
-"name": "M3"
+"wrenchingHeight": 2.4
 }, 
 {
 "height": 5.0, 
+"diameter": 4.0, 
+"size": "M4", 
 "width": 7.0, 
-"wrenchingHeight": 2.9, 
-"name": "M4"
+"wrenchingHeight": 2.9
 }, 
 {
 "height": 5.0, 
+"diameter": 5.0, 
+"size": "M5", 
 "width": 8.0, 
-"wrenchingHeight": 3.2, 
-"name": "M5"
+"wrenchingHeight": 3.2
 }, 
 {
 "height": 6.0, 
+"diameter": 6.0, 
+"size": "M6", 
 "width": 10.0, 
-"wrenchingHeight": 4.0, 
-"name": "M6"
+"wrenchingHeight": 4.0
 }, 
 {
 "height": 8.0, 
+"diameter": 8.0, 
+"size": "M8", 
 "width": 13.0, 
-"wrenchingHeight": 5.5, 
-"name": "M8"
+"wrenchingHeight": 5.5
 }, 
 {
 "height": 10.0, 
+"diameter": 10.0, 
+"size": "M10", 
 "width": 16.0, 
-"wrenchingHeight": 6.5, 
-"name": "M10"
+"wrenchingHeight": 6.5
 }, 
 {
 "height": 12.0, 
+"diameter": 12.0, 
+"size": "M12", 
 "width": 18.0, 
-"wrenchingHeight": 8.0, 
-"name": "M12"
+"wrenchingHeight": 8.0
 }, 
 {
 "height": 14.0, 
+"diameter": 14.0, 
+"size": "M14", 
 "width": 21.0, 
-"wrenchingHeight": 9.5, 
-"name": "M14"
+"wrenchingHeight": 9.5
 }, 
 {
 "height": 16.0, 
+"diameter": 16.0, 
+"size": "M16", 
 "width": 24.0, 
-"wrenchingHeight": 10.5, 
-"name": "M16"
+"wrenchingHeight": 10.5
 }, 
 {
 "height": 18.0, 
+"diameter": 18.0, 
+"size": "M18", 
 "width": 27.0, 
-"wrenchingHeight": 13.0, 
-"name": "M18"
+"wrenchingHeight": 13.0
 }, 
 {
 "height": 20.0, 
+"diameter": 20.0, 
+"size": "M20", 
 "width": 30.0, 
-"wrenchingHeight": 14.0, 
-"name": "M20"
+"wrenchingHeight": 14.0
 }
 ]
 }

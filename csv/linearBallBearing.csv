@@ -1,4 +1,4 @@
-name,outerDiameter,length,innerDiameter
+size,outerDiameter,length,innerDiameter
 LM5UU,10,15,5
 LM6UU,12,20,6
 LM8UU,15,24,8

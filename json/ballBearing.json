@@ -2,171 +2,171 @@
 "ballBearing": [
 {
 "outerDiameter": 7.0, 
-"width": 3.0, 
-"name": "683zz", 
-"innerDiameter": 3.0
+"size": "683zz", 
+"innerDiameter": 3.0, 
+"width": 3.0
 }, 
 {
 "outerDiameter": 8.0, 
-"width": 4.0, 
-"name": "693zz", 
-"innerDiameter": 3.0
+"size": "693zz", 
+"innerDiameter": 3.0, 
+"width": 4.0
 }, 
 {
 "outerDiameter": 9.0, 
-"width": 5.0, 
-"name": "603zz", 
-"innerDiameter": 3.0
+"size": "603zz", 
+"innerDiameter": 3.0, 
+"width": 5.0
 }, 
 {
 "outerDiameter": 10.0, 
-"width": 4.0, 
-"name": "623zz", 
-"innerDiameter": 3.0
+"size": "623zz", 
+"innerDiameter": 3.0, 
+"width": 4.0
 }, 
 {
 "outerDiameter": 9.0, 
-"width": 4.0, 
-"name": "684zz", 
-"innerDiameter": 4.0
+"size": "684zz", 
+"innerDiameter": 4.0, 
+"width": 4.0
 }, 
 {
 "outerDiameter": 11.0, 
-"width": 4.0, 
-"name": "694zz", 
-"innerDiameter": 4.0
+"size": "694zz", 
+"innerDiameter": 4.0, 
+"width": 4.0
 }, 
 {
 "outerDiameter": 12.0, 
-"width": 4.0, 
-"name": "604zz", 
-"innerDiameter": 4.0
+"size": "604zz", 
+"innerDiameter": 4.0, 
+"width": 4.0
 }, 
 {
 "outerDiameter": 13.0, 
-"width": 5.0, 
-"name": "624zz", 
-"innerDiameter": 4.0
+"size": "624zz", 
+"innerDiameter": 4.0, 
+"width": 5.0
 }, 
 {
 "outerDiameter": 16.0, 
-"width": 5.0, 
-"name": "634zz", 
-"innerDiameter": 4.0
+"size": "634zz", 
+"innerDiameter": 4.0, 
+"width": 5.0
 }, 
 {
 "outerDiameter": 16.0, 
-"width": 5.0, 
-"name": "625zz", 
-"innerDiameter": 5.0
+"size": "625zz", 
+"innerDiameter": 5.0, 
+"width": 5.0
 }, 
 {
 "outerDiameter": 11.0, 
-"width": 5.0, 
-"name": "685zz", 
-"innerDiameter": 5.0
+"size": "685zz", 
+"innerDiameter": 5.0, 
+"width": 5.0
 }, 
 {
 "outerDiameter": 13.0, 
-"width": 4.0, 
-"name": "695zz", 
-"innerDiameter": 5.0
+"size": "695zz", 
+"innerDiameter": 5.0, 
+"width": 4.0
 }, 
 {
 "outerDiameter": 14.0, 
-"width": 5.0, 
-"name": "605zz", 
-"innerDiameter": 5.0
+"size": "605zz", 
+"innerDiameter": 5.0, 
+"width": 5.0
 }, 
 {
 "outerDiameter": 16.0, 
-"width": 5.0, 
-"name": "625zz", 
-"innerDiameter": 5.0
+"size": "625zz", 
+"innerDiameter": 5.0, 
+"width": 5.0
 }, 
 {
 "outerDiameter": 19.0, 
-"width": 6.0, 
-"name": "635zz", 
-"innerDiameter": 5.0
+"size": "635zz", 
+"innerDiameter": 5.0, 
+"width": 6.0
 }, 
 {
 "outerDiameter": 13.0, 
-"width": 5.0, 
-"name": "686zz", 
-"innerDiameter": 6.0
+"size": "686zz", 
+"innerDiameter": 6.0, 
+"width": 5.0
 }, 
 {
 "outerDiameter": 15.0, 
-"width": 5.0, 
-"name": "696zz", 
-"innerDiameter": 6.0
+"size": "696zz", 
+"innerDiameter": 6.0, 
+"width": 5.0
 }, 
 {
 "outerDiameter": 17.0, 
-"width": 6.0, 
-"name": "606zz", 
-"innerDiameter": 6.0
+"size": "606zz", 
+"innerDiameter": 6.0, 
+"width": 6.0
 }, 
 {
 "outerDiameter": 19.0, 
-"width": 6.0, 
-"name": "626zz", 
-"innerDiameter": 6.0
+"size": "626zz", 
+"innerDiameter": 6.0, 
+"width": 6.0
 }, 
 {
 "outerDiameter": 14.0, 
-"width": 5.0, 
-"name": "687zz", 
-"innerDiameter": 7.0
+"size": "687zz", 
+"innerDiameter": 7.0, 
+"width": 5.0
 }, 
 {
 "outerDiameter": 17.0, 
-"width": 5.0, 
-"name": "697zz", 
-"innerDiameter": 7.0
+"size": "697zz", 
+"innerDiameter": 7.0, 
+"width": 5.0
 }, 
 {
 "outerDiameter": 19.0, 
-"width": 6.0, 
-"name": "607zz", 
-"innerDiameter": 7.0
+"size": "607zz", 
+"innerDiameter": 7.0, 
+"width": 6.0
 }, 
 {
 "outerDiameter": 22.0, 
-"width": 7.0, 
-"name": "627zz", 
-"innerDiameter": 7.0
+"size": "627zz", 
+"innerDiameter": 7.0, 
+"width": 7.0
 }, 
 {
 "outerDiameter": 16.0, 
-"width": 5.0, 
-"name": "688zz", 
-"innerDiameter": 8.0
+"size": "688zz", 
+"innerDiameter": 8.0, 
+"width": 5.0
 }, 
 {
 "outerDiameter": 19.0, 
-"width": 6.0, 
-"name": "698zz", 
-"innerDiameter": 8.0
+"size": "698zz", 
+"innerDiameter": 8.0, 
+"width": 6.0
 }, 
 {
 "outerDiameter": 22.0, 
-"width": 7.0, 
-"name": "608zz", 
-"innerDiameter": 8.0
+"size": "608zz", 
+"innerDiameter": 8.0, 
+"width": 7.0
 }, 
 {
 "outerDiameter": 17.0, 
-"width": 5.0, 
-"name": "689zz", 
-"innerDiameter": 9.0
+"size": "689zz", 
+"innerDiameter": 9.0, 
+"width": 5.0
 }, 
 {
 "outerDiameter": 20.0, 
-"width": 6.0, 
-"name": "699zz", 
-"innerDiameter": 9.0
+"size": "699zz", 
+"innerDiameter": 9.0, 
+"width": 6.0
 }
 ]
 }
