@@ -22,6 +22,6 @@ for csvFile in csvFileList:
                     pass
             jsonFile[name].append(row)
         outFile = open("./json/"+name+".json", 'w')
-        json.dump(jsonFile,outFile, indent=0)
+        json.dump(jsonFile,outFile, indent=0, sort_keys=True)
 
 print("CSV to JSON conversion finished!")
