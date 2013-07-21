@@ -1,52 +1,52 @@
 {
 "linearBallBearing": [
 {
-"outerDiameter": 10.0, 
-"size": "LM5UU", 
 "innerDiameter": 5.0, 
-"length": 15.0
+"length": 15.0, 
+"outerDiameter": 10.0, 
+"size": "LM5UU"
 }, 
 {
-"outerDiameter": 12.0, 
-"size": "LM6UU", 
 "innerDiameter": 6.0, 
-"length": 20.0
+"length": 20.0, 
+"outerDiameter": 12.0, 
+"size": "LM6UU"
 }, 
 {
+"innerDiameter": 8.0, 
+"length": 24.0, 
 "outerDiameter": 15.0, 
-"size": "LM8UU", 
-"innerDiameter": 8.0, 
-"length": 24.0
+"size": "LM8UU"
 }, 
 {
+"innerDiameter": 8.0, 
+"length": 25.0, 
 "outerDiameter": 16.0, 
-"size": "LME8UU", 
-"innerDiameter": 8.0, 
-"length": 25.0
+"size": "LME8UU"
 }, 
 {
-"outerDiameter": 19.0, 
-"size": "LM10UU", 
 "innerDiameter": 10.0, 
-"length": 29.0
+"length": 29.0, 
+"outerDiameter": 19.0, 
+"size": "LM10UU"
 }, 
 {
-"outerDiameter": 22.0, 
-"size": "LME12UU", 
 "innerDiameter": 12.0, 
-"length": 32.0
+"length": 32.0, 
+"outerDiameter": 22.0, 
+"size": "LME12UU"
 }, 
 {
-"outerDiameter": 28.0, 
-"size": "LM16UU", 
 "innerDiameter": 16.0, 
-"length": 37.0
+"length": 37.0, 
+"outerDiameter": 28.0, 
+"size": "LM16UU"
 }, 
 {
-"outerDiameter": 32.0, 
-"size": "LME20UU", 
 "innerDiameter": 20.0, 
-"length": 45.0
+"length": 45.0, 
+"outerDiameter": 32.0, 
+"size": "LME20UU"
 }
 ]
 }

@@ -1,0 +1,70 @@
+{
+"timingBelt": [
+{
+"height": 2.3, 
+"pitch": 5.08, 
+"size": "XL", 
+"toothHeight": 1.27
+}, 
+{
+"height": 3.6, 
+"pitch": 9.525, 
+"size": "L", 
+"toothHeight": 1.9
+}, 
+{
+"height": 4.3, 
+"pitch": 12.7, 
+"size": "H", 
+"toothHeight": 2.3
+}, 
+{
+"height": 11.2, 
+"pitch": 22.225, 
+"size": "XH", 
+"toothHeight": 6.35
+}, 
+{
+"height": 2.2, 
+"pitch": 5.0, 
+"size": "T5", 
+"toothHeight": 1.2
+}, 
+{
+"height": 4.5, 
+"pitch": 10.0, 
+"size": "T10", 
+"toothHeight": 2.5
+}, 
+{
+"height": 8.0, 
+"pitch": 20.0, 
+"size": "T20", 
+"toothHeight": 5.0
+}, 
+{
+"height": 2.7, 
+"pitch": 5.0, 
+"size": "AT5", 
+"toothHeight": 1.2
+}, 
+{
+"height": 4.5, 
+"pitch": 10.0, 
+"size": "AT10", 
+"toothHeight": 2.5
+}, 
+{
+"height": 8.0, 
+"pitch": 20.0, 
+"size": "AT20", 
+"toothHeight": 5.0
+}, 
+{
+"height": 1.38, 
+"pitch": 2.0, 
+"size": "GT2", 
+"toothHeight": 0.75
+}
+]
+}
