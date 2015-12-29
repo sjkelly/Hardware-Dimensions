@@ -1,172 +1,137 @@
 {
-"ballBearing": [
-{
-"innerDiameter": 3.0, 
-"outerDiameter": 7.0, 
-"size": "683zz", 
-"width": 3.0
-}, 
-{
-"innerDiameter": 3.0, 
-"outerDiameter": 8.0, 
-"size": "693zz", 
-"width": 4.0
-}, 
-{
-"innerDiameter": 3.0, 
-"outerDiameter": 9.0, 
-"size": "603zz", 
-"width": 5.0
-}, 
-{
-"innerDiameter": 3.0, 
-"outerDiameter": 10.0, 
-"size": "623zz", 
-"width": 4.0
-}, 
-{
-"innerDiameter": 4.0, 
-"outerDiameter": 9.0, 
-"size": "684zz", 
-"width": 4.0
-}, 
-{
-"innerDiameter": 4.0, 
-"outerDiameter": 11.0, 
-"size": "694zz", 
-"width": 4.0
-}, 
-{
-"innerDiameter": 4.0, 
-"outerDiameter": 12.0, 
-"size": "604zz", 
-"width": 4.0
-}, 
-{
-"innerDiameter": 4.0, 
-"outerDiameter": 13.0, 
-"size": "624zz", 
-"width": 5.0
-}, 
-{
-"innerDiameter": 4.0, 
-"outerDiameter": 16.0, 
-"size": "634zz", 
-"width": 5.0
-}, 
-{
-"innerDiameter": 5.0, 
-"outerDiameter": 16.0, 
-"size": "625zz", 
-"width": 5.0
-}, 
-{
-"innerDiameter": 5.0, 
-"outerDiameter": 11.0, 
-"size": "685zz", 
-"width": 5.0
-}, 
-{
-"innerDiameter": 5.0, 
-"outerDiameter": 13.0, 
-"size": "695zz", 
-"width": 4.0
-}, 
-{
-"innerDiameter": 5.0, 
-"outerDiameter": 14.0, 
-"size": "605zz", 
-"width": 5.0
-}, 
-{
-"innerDiameter": 5.0, 
-"outerDiameter": 16.0, 
-"size": "625zz", 
-"width": 5.0
-}, 
-{
-"innerDiameter": 5.0, 
-"outerDiameter": 19.0, 
-"size": "635zz", 
-"width": 6.0
-}, 
-{
-"innerDiameter": 6.0, 
-"outerDiameter": 13.0, 
-"size": "686zz", 
-"width": 5.0
-}, 
-{
-"innerDiameter": 6.0, 
-"outerDiameter": 15.0, 
-"size": "696zz", 
-"width": 5.0
-}, 
-{
-"innerDiameter": 6.0, 
-"outerDiameter": 17.0, 
-"size": "606zz", 
-"width": 6.0
-}, 
-{
-"innerDiameter": 6.0, 
-"outerDiameter": 19.0, 
-"size": "626zz", 
-"width": 6.0
-}, 
-{
-"innerDiameter": 7.0, 
-"outerDiameter": 14.0, 
-"size": "687zz", 
-"width": 5.0
-}, 
-{
-"innerDiameter": 7.0, 
-"outerDiameter": 17.0, 
-"size": "697zz", 
-"width": 5.0
-}, 
-{
-"innerDiameter": 7.0, 
-"outerDiameter": 19.0, 
-"size": "607zz", 
-"width": 6.0
-}, 
-{
-"innerDiameter": 7.0, 
-"outerDiameter": 22.0, 
-"size": "627zz", 
-"width": 7.0
-}, 
-{
-"innerDiameter": 8.0, 
-"outerDiameter": 16.0, 
-"size": "688zz", 
-"width": 5.0
-}, 
-{
-"innerDiameter": 8.0, 
-"outerDiameter": 19.0, 
-"size": "698zz", 
-"width": 6.0
-}, 
-{
-"innerDiameter": 8.0, 
-"outerDiameter": 22.0, 
-"size": "608zz", 
-"width": 7.0
-}, 
-{
-"innerDiameter": 9.0, 
-"outerDiameter": 17.0, 
-"size": "689zz", 
-"width": 5.0
-}, 
-{
-"innerDiameter": 9.0, 
-"outerDiameter": 20.0, 
-"size": "699zz", 
-"width": 6.0
-}
-]
+  "603zz": {
+    "innerDiameter": 3.0,
+    "outerDiameter": 9.0,
+    "width": 5.0
+  },
+  "604zz": {
+    "innerDiameter": 4.0,
+    "outerDiameter": 12.0,
+    "width": 4.0
+  },
+  "605zz": {
+    "innerDiameter": 5.0,
+    "outerDiameter": 14.0,
+    "width": 5.0
+  },
+  "606zz": {
+    "innerDiameter": 6.0,
+    "outerDiameter": 17.0,
+    "width": 6.0
+  },
+  "607zz": {
+    "innerDiameter": 7.0,
+    "outerDiameter": 19.0,
+    "width": 6.0
+  },
+  "608zz": {
+    "innerDiameter": 8.0,
+    "outerDiameter": 22.0,
+    "width": 7.0
+  },
+  "623zz": {
+    "innerDiameter": 3.0,
+    "outerDiameter": 10.0,
+    "width": 4.0
+  },
+  "624zz": {
+    "innerDiameter": 4.0,
+    "outerDiameter": 13.0,
+    "width": 5.0
+  },
+  "625zz": {
+    "innerDiameter": 5.0,
+    "outerDiameter": 16.0,
+    "width": 5.0
+  },
+  "626zz": {
+    "innerDiameter": 6.0,
+    "outerDiameter": 19.0,
+    "width": 6.0
+  },
+  "627zz": {
+    "innerDiameter": 7.0,
+    "outerDiameter": 22.0,
+    "width": 7.0
+  },
+  "634zz": {
+    "innerDiameter": 4.0,
+    "outerDiameter": 16.0,
+    "width": 5.0
+  },
+  "635zz": {
+    "innerDiameter": 5.0,
+    "outerDiameter": 19.0,
+    "width": 6.0
+  },
+  "683zz": {
+    "innerDiameter": 3.0,
+    "outerDiameter": 7.0,
+    "width": 3.0
+  },
+  "684zz": {
+    "innerDiameter": 4.0,
+    "outerDiameter": 9.0,
+    "width": 4.0
+  },
+  "685zz": {
+    "innerDiameter": 5.0,
+    "outerDiameter": 11.0,
+    "width": 5.0
+  },
+  "686zz": {
+    "innerDiameter": 6.0,
+    "outerDiameter": 13.0,
+    "width": 5.0
+  },
+  "687zz": {
+    "innerDiameter": 7.0,
+    "outerDiameter": 14.0,
+    "width": 5.0
+  },
+  "688zz": {
+    "innerDiameter": 8.0,
+    "outerDiameter": 16.0,
+    "width": 5.0
+  },
+  "689zz": {
+    "innerDiameter": 9.0,
+    "outerDiameter": 17.0,
+    "width": 5.0
+  },
+  "693zz": {
+    "innerDiameter": 3.0,
+    "outerDiameter": 8.0,
+    "width": 4.0
+  },
+  "694zz": {
+    "innerDiameter": 4.0,
+    "outerDiameter": 11.0,
+    "width": 4.0
+  },
+  "695zz": {
+    "innerDiameter": 5.0,
+    "outerDiameter": 13.0,
+    "width": 4.0
+  },
+  "696zz": {
+    "innerDiameter": 6.0,
+    "outerDiameter": 15.0,
+    "width": 5.0
+  },
+  "697zz": {
+    "innerDiameter": 7.0,
+    "outerDiameter": 17.0,
+    "width": 5.0
+  },
+  "698zz": {
+    "innerDiameter": 8.0,
+    "outerDiameter": 19.0,
+    "width": 6.0
+  },
+  "699zz": {
+    "innerDiameter": 9.0,
+    "outerDiameter": 20.0,
+    "width": 6.0
+  }
 }

@@ -13,16 +13,19 @@ for csvFile in csvFileList:
         name = os.path.basename(csvFile)
         name = os.path.splitext(name)[0]
         jsonFile = dict()
-        jsonFile[name] = []
         for row in reader:
-            for item in row: #turn number strings into floats
+            partDict = dict()
+            for item in row:
+                if item == "size":
+                    continue
+                # turn number strings to floats if possible
                 try:
-                    row[item] = float(row[item])
+                    partDict[item] = float(row[item])
                 except ValueError:
-                    pass
-            jsonFile[name].append(row)
+                    partDict[item] = row[item]
+            jsonFile[row["size"]] = partDict
         outFile = open("./json/"+name+".json", 'w')
-        json.dump(jsonFile,outFile, indent=0, sort_keys=True)
+        json.dump(jsonFile,outFile, indent=2, sort_keys=True)
         outFile.close()
 
 print("CSV to JSON conversion finished!")
